@@ -11,15 +11,13 @@ title: Home
 
 ### Key Features
 
-- **Smart Tracking** - Easily log your fuel purchases and consumption
-- **iOS Native** - Built specifically for iPhone with a clean, intuitive interface
-- **Data Insights** - Track your fuel efficiency over time
-- **Quick Entry** - Log your fill-ups in seconds
+- **Smart Tracking** - Easily log your consumption
+- **Data Insights** - Track your fuel consumption over time to hit your endurance goals
 
 ### Get FuelFlow
 
-Available now on the App Store for iOS devices.
+Available soon on the App Store for iOS devices and Google Play store for Android devices.
 
 ---
 
-*FuelFlow - Track smarter, drive better.*
+*FuelFlow - Track smarter, perform better.*
